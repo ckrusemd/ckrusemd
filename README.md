@@ -2,7 +2,7 @@
 
 Danish M.D. who transitioned to data science. 
 
-Ex-data scientist at [KMD](https://www.kmd.dk/), [Bristol-Myers Squibb](https://www.bms.com/), [Systematic](https://www.systematic.dk/)
+Ex-data scientist at [KMD](https://www.kmd.dk/), [Bristol-Myers Squibb](https://www.bms.com/), [Systematic](https://da.systematic.com/)
 
 
 
